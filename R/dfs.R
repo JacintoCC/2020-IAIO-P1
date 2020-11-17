@@ -1,5 +1,5 @@
 #' DFS algorithm
-#' @param problem Problema
+#' @param problem Problema a buscar
 #' @export dfs
 dfs <- function(problem){
   current.state <- initialState(problem)

@@ -7,7 +7,7 @@
 dfs(problem)
 }
 \arguments{
-\item{problem}{Problema}
+\item{problem}{Problema a buscar}
 }
 \description{
 DFS algorithm

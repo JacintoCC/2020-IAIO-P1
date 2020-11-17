@@ -10,7 +10,7 @@ Imports:
     jsonlite,
     magrittr,
     reshape2,
-    rlang,
+    rlang, 
     dplyr,
     gganimate,
     ggplot2

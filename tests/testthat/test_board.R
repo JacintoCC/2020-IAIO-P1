@@ -1,5 +1,5 @@
 library(Practica1)
-context("Create Board Problem")
+context("Board Problem")
 
 test_that("Create Board Problem", {
 

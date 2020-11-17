@@ -1,5 +1,5 @@
 #' @title Initial State
-#' @param problem Problema para obtener el estado inicial
+#' @param problem Problema del cual obtener el estado inicial
 #' @rdname initialState
 #' @export initialState
 initialState <- function(problem){

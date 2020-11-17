@@ -2,7 +2,7 @@
 % Please edit documentation in R/board.R
 \name{getBoard}
 \alias{getBoard}
-\title{Get Definition Board Problem}
+\title{Get Definition of Board Problem}
 \usage{
 getBoard(n = 10)
 }
@@ -10,5 +10,5 @@ getBoard(n = 10)
 \item{n}{Length of the board}
 }
 \description{
-Get Definition Board Problem
+Get Definition of Board Problem
 }

@@ -7,7 +7,7 @@
 initialState(problem)
 }
 \arguments{
-\item{problem}{Problema para obtener el estado inicial}
+\item{problem}{Problema del cual obtener el estado inicial}
 }
 \description{
 Initial State

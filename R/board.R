@@ -1,4 +1,4 @@
-#' @title Get Definition Board Problem
+#' @title Get Definition of Board Problem
 #'
 #' @param n Length of the board
 #' @export

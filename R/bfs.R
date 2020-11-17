@@ -1,5 +1,5 @@
 #' BFS algorithm
-#' @param problem Problema
+#' @param problem Problema a buscar
 #' @export
 bfs <- function(problem){
   current.state <- initialState(problem)
